@@ -3,12 +3,6 @@
 
 
 📧 sayankoley18@gmail.com | 📱 +91 7980916745 | 🌍 [Portfolio](https://sayankoley.github.io) | 💻 [GitHub](https://github.com/sayankoley)  
-
----
-
-## 🧑‍💻 Summary  
-Front-End Developer with **4 years of experience** building modern web applications using **HTML, CSS, JavaScript, and React**. Skilled in state management with **TanStack Query, Redux, Context API, and Axios**, with strong expertise in **Bootstrap, Tailwind CSS, Material UI, and WordPress**. Committed to creating **responsive, scalable, and user-friendly digital solutions**.
-
 ---
 
 ## 🛠️ Technical Skills  
