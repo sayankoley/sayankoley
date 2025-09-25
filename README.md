@@ -8,7 +8,7 @@
 ## 🛠️ Technical Skills  
 
 ### 🌐 Languages  
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
@@ -17,7 +17,7 @@
 ---
 
 ### ⚛️ Frontend Frameworks & Libraries  
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="60" alt="Redux"/>
@@ -37,7 +37,7 @@
 ---
 
 ### ⚡ CMS & Tools  
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="60" height="60" alt="WordPress"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/>
@@ -47,7 +47,7 @@
 ---
 
 ### 🎨 Design Tools  
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" alt="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="60" height="60" alt="Photoshop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="60" height="60" alt="Adobe XD"/>
@@ -62,7 +62,7 @@
 📅 *Jul 2020 – Current*  
 
 - Built and maintained responsive websites using **HTML, CSS, and JavaScript** ensuring cross-browser compatibility.  
-- Worked extensively with **React, Redux, Context API, and useReducer**.  
+- Worked extensively with **React, Next, Redux, Context API, and useReducer**.  
 - Integrated REST APIs with **Axios**.  
 - Developed reusable UI components with **Tailwind CSS** and **Material UI**.  
 - Customized **WordPress sites** with child themes, plugins, CPTs, and ACF.  
