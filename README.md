@@ -60,13 +60,6 @@
 **Front End Developer**  
 *Prikal Technology Solutions Pvt. Ltd, Kolkata, India*  
 📅 *Jul 2020 – Current*  
-
-- Built and maintained responsive websites using **HTML, CSS, and JavaScript** ensuring cross-browser compatibility.  
-- Worked extensively with **React, Next, Redux, Context API, and useReducer**.  
-- Integrated REST APIs with **Axios**.  
-- Developed reusable UI components with **Tailwind CSS** and **Material UI**.  
-- Customized **WordPress sites** with child themes, plugins, CPTs, and ACF.  
-
 ---
 
 ## 📊 GitHub Stats  
