@@ -1,11 +1,5 @@
 # Hi 👋, I'm Sayan Koley  
-### Front-End Developer  
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> React.js Frontend Developer | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25"/> Next.js | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="25"/> Redux | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="25"/> Tailwind CSS | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="25"/> Material UI
+### React.js Frontend Developer | Next.js, Redux, Tailwind CSS, Material UI
 
 
 📧 sayankoley18@gmail.com | 📱 +91 7980916745 | 🌍 [Portfolio](https://sayankoley.github.io) | 💻 [GitHub](https://github.com/sayankoley)  
@@ -91,8 +85,7 @@ Front-End Developer with **4 years of experience** building modern web applicati
 
 ## 📊 GitHub Stats  
 
-![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayankoley&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayankoley&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayankoley&theme=tokyonight)  
+
 
 ---
